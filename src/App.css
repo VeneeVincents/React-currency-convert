@@ -1,0 +1,30 @@
+body {
+  margin: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background-image: url(https://www.bing.com/images/search?q=Currency&FORM=IQFRBA&id=9A46B29CAD35D591F8DE9FA6275582486ED044AD);
+}
+h1 {
+  margin: 0;
+  margin-bottom: 5rem;
+
+}
+.input{
+  border: 1px solid;
+  border-radius: .3em;
+  padding: .25rem;
+  width: 7cm;
+
+}
+
+select {
+  margin-left: .5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
